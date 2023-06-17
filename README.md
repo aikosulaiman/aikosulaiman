@@ -2,10 +2,10 @@
 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>3rd Year Information System Student at <a href="http://www.unb.br">University of Indonesia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>3rd Year Information System Student at <a href="https://www.ui.ac.id/">University of Indonesia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </p>
   
-[![Linkedin: aikosulaiman](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aiko-sulaiman/)](https://www.linkedin.com/in/aiko-sulaiman/)
+[![Linkedin: aikosulaiman](https://img.shields.io/badge/-aikosulaiman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aiko-sulaiman/)](https://www.linkedin.com/in/aiko-sulaiman/)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
