@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hi there 👋 I'm Aiko!
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hi there 👋 I'm Aiko!
 
 <img src="https://media.giphy.com/media/tkEaYA3Kd5WtyXtLqu/giphy.gif" width="80">
 <p><em>3rd Year Information System Student at <a href="https://www.ui.ac.id/">University of Indonesia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
@@ -9,7 +9,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 - 👨🏽‍💻 I’m currently a Machine Learning cohort in Bangkit
-- 🌱 I’m currently exploring Python for Data Science and Machine Learning
+- 🌱 I’m exploring Python for Data Science and Machine Learning
 - 🤔 My interest lies in Data Analytics, Data Science, and Machine Learning.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [sulaimanaiko@gmail.com](mailto:sulaimanaiko@gmail.com).
