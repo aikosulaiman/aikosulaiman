@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Aiko!
 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-<img align='right' src="https://media.giphy.com/media/tkEaYA3Kd5WtyXtLqu/giphy.gif" width="230">
 <p><em>3rd Year Information System Student at <a href="https://www.ui.ac.id/">University of Indonesia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </p>
   
@@ -15,6 +14,8 @@
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [sulaimanaiko@gmail.com](mailto:sulaimanaiko@gmail.com).
 
+<br>
+<img align='right' src="https://media.giphy.com/media/tkEaYA3Kd5WtyXtLqu/giphy.gif" width="230">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aikosulaiman&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="aikosulaiman"/>
 
 -----
