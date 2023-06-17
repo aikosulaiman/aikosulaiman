@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Aiko!
 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-<img align='right' src="https://media.giphy.com/media/tkEaYA3Kd5WtyXtLqu/giphy.gif" width="80">
+<img src="https://media.giphy.com/media/tkEaYA3Kd5WtyXtLqu/giphy.gif" width="100">
 <p><em>3rd Year Information System Student at <a href="https://www.ui.ac.id/">University of Indonesia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </p>
   
